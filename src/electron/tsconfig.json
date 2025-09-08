@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "lib": ["esnext", "dom", "dom.iterable"],
+    "target": "esnext",
+    "module": "nodenext",
+    "moduleDetection": "force",
+    "noUncheckedIndexedAccess": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "verbatimModuleSyntax": true,
+    "outDir": "../../dist-electron",
+    "esModuleInterop": true
+  }
+}
